@@ -1,0 +1,7 @@
+Project: DevOps Collaboration Demo
+
+Team Members:
+1. User1
+2. User2
+
+Status: Initial Setup
