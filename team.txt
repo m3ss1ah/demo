@@ -1,7 +1,7 @@
 Project: DevOps Collaboration Demo
 
 Team Members:
-1. User1
-2. User2
+1. Vishal
+2. Devansh
 
-Status: Initial Setup
+Status: Updated by User1
